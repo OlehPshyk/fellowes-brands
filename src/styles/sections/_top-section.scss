@@ -1,0 +1,14 @@
+.top-section{
+	min-height: 400px;
+	background-image: url("static/img/top_bg_image.png");
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	.main-title {
+		text-align: center;
+		color: #fff;
+	}
+}

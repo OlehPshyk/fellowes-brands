@@ -1,0 +1,28 @@
+
+@import 'normalize-scss/sass/normalize';
+@include normalize();
+
+// @import "custom";
+@import 'variables';
+@import 'mixins';
+@import 'fonts';
+@import 'icons';
+@import 'base';
+@import 'wrapper';
+@import 'plugins';
+@import 'animations';
+@import 'typography';
+@import 'forms';
+@import 'buttons';
+@import 'video';
+@import 'helpers';
+
+@import './components/main';
+@import './components/header';
+@import './components/footer';
+
+
+@import './sections/top-section';
+@import './sections/second-section';
+@import './sections/third-section';
+@import './sections/fourth-section';

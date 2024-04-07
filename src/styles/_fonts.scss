@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Raleway';
+  // src: url('../static/fonts/PressStart2P.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: url('../static/fonts/raleway-regular-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+      // url('../static/fonts/PressStart2P.woff') format('woff'), /* Modern Browsers */
+      // url('../static/fonts/PressStart2P.ttf') format('truetype'), /* Safari, Android, iOS */
+}

@@ -1,0 +1,5 @@
+.xs-only{
+  @include breakpoint(sm){
+    display: none;
+  }
+}
